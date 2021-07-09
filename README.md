@@ -14,7 +14,7 @@ Student's Result Management System In JAVA
 
 4. Technologies
    - Frontend - HTML5, CSS, Bootstrap, Jquery, JavaScript
-   - Backend - Java, JSP
+   - Backend - Java, JSP, Servlet
    - DataBase - MySQL Workbench 5.2 CE
 
 5. Admin Login Details
