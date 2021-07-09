@@ -1,6 +1,6 @@
 # Student-Result-Management-System
 
-Student's Result Management System In JAVA with
+Student's Result Management System In JAVA 
 
 1. Student Panel
   - view result
@@ -12,6 +12,7 @@ Student's Result Management System In JAVA with
   - Insert Student's Result Data
   - View Student's Result Data
 
-Frontend Technologies - HTML5, CSS, Bootstrap, Jquery, JavaScript
-Backend Technologies - Java, JSP
-DataBase - MySQL Workbench 5.2 CE
+4. Technologies
+   - Frontend - HTML5, CSS, Bootstrap, Jquery, JavaScript
+   - Backend - Java, JSP
+   - DataBase - MySQL Workbench 5.2 CE
