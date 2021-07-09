@@ -16,3 +16,7 @@ Student's Result Management System In JAVA
    - Frontend - HTML5, CSS, Bootstrap, Jquery, JavaScript
    - Backend - Java, JSP
    - DataBase - MySQL Workbench 5.2 CE
+
+5. Admin Login Details
+     - UserName : Admin
+     - Password : Admin
