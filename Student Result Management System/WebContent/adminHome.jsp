@@ -341,13 +341,7 @@ catch(Exception e)
 </section>
 
 </div>
-<!-- 
-    <hr class="new1">
-  <center><h5>Note: Any errors occur then contact BTech Days.
-Designed & Developed by BTech Days Team</h5></center>
-  <hr class="new1">
-<center><h5>All Right Reserved @ BTech Days :: 2015-2020</h5></center> 
-  <hr class="new1">  -->
+
 <br>
 </body>
 </html>
