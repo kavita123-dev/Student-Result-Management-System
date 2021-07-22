@@ -188,13 +188,7 @@ tbody >tr:nth-child(odd) {
   <br>
   <br>
   <br>
-  <!--   <hr class="new1">
-  <center><h6>Note: Institution doesn't own for the errors or omissions, if any, in this statement.
-Designed & Developed by BTech Days Team</h6></center>  
-  <hr class="new1">  
-<center><h6>All Right Reserved @ BTech Days :: 2015-2020</h6></center> 
-  <hr class="new1">   -->
-  
+
 
 </body>
 
